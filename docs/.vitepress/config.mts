@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Odelis',
   description: 'A space for thought.',
+  base: '/docs/',
   cleanUrls: true,
 
   themeConfig: {
