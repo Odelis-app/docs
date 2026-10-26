@@ -1,73 +1,85 @@
 ---
 title: Notes & Library
-description: Keep notes and useful reference resources organized in Odelis.
+description: Keep notes, ideas, and useful reference resources organized in Odelis.
 ---
 
 # Notes & Library
 
-Notes & Library gives you a place to keep written information and useful resources together with your planning workflow.
+Notes & Library gives you a place to keep information you want to remember and resources you may need again.
 
-Use notes to capture ideas and information you want to revisit. Use the library to keep track of resources that may help with schoolwork, projects, or personal interests.
+The two areas serve related but distinct purposes: **notes preserve your own thinking, while library resources help you return to useful material.**
 
 ## Notes
 
-Notes are useful for information that does not belong in a task title or deadline.
+Use notes for information that needs more context than a task title can provide.
 
 Examples include:
 
 - Class notes and study summaries
 - Project ideas and planning
 - Meeting notes
-- Research notes
+- Research and observations
 - Personal reminders and reflections
 
 ### Writing useful notes
 
-A few simple habits can make notes easier to revisit:
+A note is most useful when it remains understandable after some time has passed.
 
-- Give each note a descriptive title.
-- Keep related information together.
-- Use headings or lists when they improve readability.
-- Include relevant context so the note still makes sense later.
+1. **Choose a descriptive title.** Make the subject clear without opening the note.
+2. **Keep related information together.** Group ideas that belong to the same topic.
+3. **Use structure when it helps.** Headings, short paragraphs, and lists can make longer notes easier to revisit.
+4. **Include context.** Record enough background that the information still makes sense later.
+
+Notes do not need to be polished documents. They need to preserve the information that matters to you.
 
 ## Library
 
-The library is intended for resources you may want to find again.
+Use the library to keep track of resources you expect to revisit.
 
-Depending on the resources you collect, these might include:
+These might include:
 
-- Useful websites
-- Articles and reference material
-- Learning resources
+- Useful websites and articles
+- Learning materials
 - Project documentation
-- Links to tools you use regularly
+- Reference pages
+- Tools you use regularly
 
-Give resources meaningful names so you can identify them without opening each one.
+Give each resource a meaningful name so you can recognize it quickly. Keep the information needed to identify or revisit the resource, using the fields available in your version of Odelis.
+
+A useful library is not necessarily a large one. Prioritize resources that serve a clear purpose.
 
 ## Categories
 
-Where category management is available, use categories to group related notes and resources. Choose categories that match the way you work, rather than creating a separate category for every individual item.
+Where category management is available, use categories to group related notes and resources.
 
-Consistent categories make it easier to find related information later.
+Choose categories based on how you expect to find information later. Avoid creating a separate category for every item; categories work best when they establish a manageable, consistent structure.
 
-## Keeping information organized
+## Keep information useful
 
-For a useful Notes & Library workspace:
+A few habits can help your workspace remain organized:
 
-1. Capture information while it is still easy to remember.
-2. Use clear titles and meaningful categories.
-3. Keep reference material that you expect to use again.
-4. Review older items occasionally.
-5. Remove outdated information when you no longer need it.
+- Capture information while it is fresh.
+- Use titles that describe the contents.
+- Group related items consistently.
+- Keep resources you expect to use again.
+- Review older material occasionally.
+- Remove or update information that is no longer useful.
 
-## Notes and tasks work together
+You do not need to reorganize everything at once. Small, regular reviews can keep the collection manageable.
 
-Notes and tasks serve different purposes.
+## How notes, resources, and tasks work together
 
-- **Tasks** track actions you need to complete.
-- **Notes** preserve information, ideas, and context.
-- **Library resources** help you find information outside your own notes.
+Each feature supports a different part of your workflow.
 
-For example, you might create a task to prepare for an exam, use a note to summarize the material, and save useful study resources in your library.
+- **Tasks** identify actions you need to complete.
+- **Notes** preserve your own information, ideas, and context.
+- **Library resources** help you return to material from outside your notes.
 
-Together, these features help keep your plans and supporting information in one workspace.
+For example, when preparing for an exam, you might create a task for the study session, write a note summarizing a difficult concept, and save a helpful reference in your library.
+
+Together, these tools help connect the work you need to do with the information that supports it.
+
+## Related guides
+
+- [Tasks](/guides/tasks) — track responsibilities and next actions.
+- [Weekly Planner](/guides/weekly-planner) — organize when you intend to work.
