@@ -5,74 +5,78 @@ description: Organize responsibilities, priorities, categories, and deadlines in
 
 # Tasks
 
-The task system helps you keep track of responsibilities, organize your work, and see what needs attention.
+Tasks help turn responsibilities into clear, manageable actions. Use them to keep track of what needs to be done, what deserves attention, and what is coming up.
+
+The aim is simple: make your next useful action easier to identify.
 
 ## Creating a task
 
-When adding a task:
+When creating a task, aim to make it clear enough that you can understand it at a glance.
 
-1. Enter a clear, descriptive title.
-2. Choose a category that fits the task.
-3. Set a priority.
-4. Add a deadline if the task needs to be completed by a particular date.
-5. Save the task.
+1. **Write a specific title.** Describe the action, not just the general subject.
+2. **Choose a category.** Group the task with related responsibilities when categories are available.
+3. **Set a priority.** Use priority to indicate how much attention the task needs.
+4. **Add a deadline.** Include a due date when timing matters.
+5. **Save the task.** Review it alongside your other responsibilities.
 
-Keep task titles specific enough that you can understand what needs to be done at a glance.
+For example, instead of *Math*, use *Complete the quadratic equations practice set*. A specific title makes the next action easier to understand.
 
 ## Categories
 
-Categories help group related tasks and make your task list easier to navigate.
+Categories group related tasks and make a larger task list easier to navigate.
 
-Odelis can use categories such as:
+You might organize tasks around areas such as school, personal responsibilities, or ongoing projects. Choose category names that reflect your own workflow.
 
-- **School** — assignments, studying, and school responsibilities.
-- **Personal** — everyday responsibilities and personal goals.
-- **Project** — work on ongoing projects.
-- **Other** — tasks that do not fit another category.
-
-Use the categories available in your version of Odelis, and customize them if category management is available. Choose names that make sense for your own workflow.
+When category customization is available, keep the system simple. A small number of useful categories is often easier to maintain than a long list of narrow ones.
 
 ## Priorities
 
-Priorities help you decide what deserves attention first.
+Priorities help distinguish tasks that need attention from those that can wait.
 
-- **Low** — a task that can generally wait.
-- **Medium** — a task of normal importance.
-- **High** — a task that needs particular attention.
+- **High** — needs particular attention or timely action.
+- **Medium** — important to keep moving, but not necessarily urgent.
+- **Low** — can generally wait until higher-priority work is handled.
 
-Priority is a guide, not a replacement for considering deadlines and the amount of work involved.
+Consider both importance and deadlines when assigning priority. A high-priority label is useful only when you apply it consistently.
 
 ## Deadlines
 
-Add a deadline when a task has a specific due date.
+Use deadlines for tasks that must be completed by a particular date.
 
-Review upcoming deadlines regularly so you can plan ahead. If a task becomes overdue, reassess what needs to happen next and adjust your plan where appropriate.
+Review upcoming due dates before deciding how to spend your time. If a deadline changes or a task becomes overdue, reassess the plan and decide on a realistic next step.
 
-Not every task needs a deadline. For ongoing responsibilities or ideas, leaving the deadline unset can keep your schedule more flexible.
+Not every task needs a deadline. Leaving one unset can make sense for ongoing responsibilities, ideas, or work without a fixed due date.
 
-## Filtering tasks
+## Finding the right tasks
 
-Use the available category or status filters to narrow the tasks shown.
+Use available filters to focus on a particular category or subset of tasks.
 
-- Select a specific category to focus on related tasks.
-- Select **All**, when available, to return to the full list.
+- Choose a category to narrow the list to related work.
+- Choose **All**, when available, to return to the full list.
+- Revisit your filters when switching between different areas of responsibility.
 
-Filters help you focus without needing to reorganize every task.
+Filtering should help you focus on the work that matters now without requiring you to reorganize everything.
 
 ## Completing and removing tasks
 
-Mark a task as complete when its work is finished. If you may need to reference a task later, completing it can be more useful than deleting it.
+Mark a task as complete when the work is finished. If you may want a record of the task, completing it can be more useful than deleting it.
 
-Delete tasks that you no longer need, using the controls available in the application.
+Remove tasks that are no longer relevant when you no longer need them. Before deleting an item, consider whether its information would be useful to keep.
 
-## Keeping your task list useful
+## Build a task system that lasts
 
-For a manageable task system:
+A useful task list does not need to be complicated.
 
 - Give each task one clear purpose.
-- Break large responsibilities into smaller steps.
-- Use priorities consistently.
-- Add deadlines when they matter.
-- Review your tasks regularly and remove outdated items.
+- Break large responsibilities into smaller actions.
+- Set priorities consistently.
+- Use deadlines when they matter.
+- Review the list regularly.
+- Remove outdated items when appropriate.
 
-The goal is not to track everything perfectly. It is to make the next useful action easier to see.
+Avoid turning task management into another task to maintain. The system should help you do the work, not distract you from it.
+
+## Related guides
+
+- [Notes & Library](/guides/notes-library) — preserve information and reference material.
+- [Weekly Planner](/guides/weekly-planner) — organize your time across the week.
