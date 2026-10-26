@@ -69,17 +69,76 @@
   --vp-button-alt-hover-bg: #435044;
 }
 
-/* Keep the homepage refined and understated */
+
+/* A quiet, editorial homepage */
+
+:root {
+  --vp-font-family-base: Inter, "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  --vp-font-family-mono: "SFMono-Regular", Consolas, monospace;
+}
 
 .VPHome {
   background: var(--vp-c-bg);
 }
 
+.VPHero {
+  padding-top: 88px;
+  padding-bottom: 64px;
+}
+
+.VPHero .name {
+  letter-spacing: -0.055em;
+  font-weight: 650;
+}
+
+.VPHero .text {
+  max-width: 12ch;
+  letter-spacing: -0.035em;
+  line-height: 1.12;
+}
+
+.VPHero .tagline {
+  max-width: 39rem;
+  line-height: 1.75;
+  font-size: 1.08rem;
+}
+
 .VPFeature {
   border-color: var(--vp-c-border);
   background: var(--vp-c-bg-alt);
+  border-radius: 10px;
+  transition: border-color 180ms ease, transform 180ms ease;
+}
+
+.VPFeature:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
 }
 
 .VPFeature .icon {
   color: var(--vp-c-brand-1);
+}
+
+.home-intro {
+  max-width: 680px;
+  margin: 0 auto 64px;
+  padding: 28px 32px;
+  border-top: 1px solid var(--vp-c-border);
+  border-bottom: 1px solid var(--vp-c-border);
+  color: var(--vp-c-text-2);
+  text-align: center;
+  font-size: 1.05rem;
+  line-height: 1.9;
+}
+
+@media (max-width: 640px) {
+  .VPHero {
+    padding-top: 56px;
+    padding-bottom: 40px;
+  }
+
+  .home-intro {
+    margin-bottom: 40px;
+    padding: 22px 12px;
+  }
 }
