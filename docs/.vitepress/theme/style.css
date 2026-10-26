@@ -1,0 +1,85 @@
+
+/* Odelis — A space for thought */
+
+:root {
+  --vp-c-brand-1: #263B32;
+  --vp-c-brand-2: #344F42;
+  --vp-c-brand-3: #1D2E26;
+  --vp-c-brand-soft: #E7EBE4;
+
+  --vp-c-bg: #F8F7F2;
+  --vp-c-bg-alt: #F0EFE8;
+  --vp-c-bg-elv: #FFFFFF;
+  --vp-c-bg-soft: #F0EFE8;
+
+  --vp-c-border: #D9CDB9;
+  --vp-c-divider: #D9CDB9;
+  --vp-c-gutter: #E7E2D7;
+
+  --vp-c-text-1: #263B32;
+  --vp-c-text-2: #526257;
+  --vp-c-text-3: #747C72;
+
+  --vp-home-hero-name-color: #263B32;
+  --vp-home-hero-image-background-image: none;
+  --vp-home-hero-image-filter: none;
+
+  --vp-button-brand-bg: #263B32;
+  --vp-button-brand-hover-bg: #344F42;
+  --vp-button-brand-active-bg: #1D2E26;
+  --vp-button-brand-border: #263B32;
+  --vp-button-brand-hover-border: #344F42;
+  --vp-button-brand-text: #F8F7F2;
+
+  --vp-button-alt-bg: #E7EBE4;
+  --vp-button-alt-text: #263B32;
+  --vp-button-alt-hover-bg: #DCE3D8;
+}
+
+.dark {
+  --vp-c-brand-1: #B8C7B5;
+  --vp-c-brand-2: #C9D5C6;
+  --vp-c-brand-3: #A4B09C;
+  --vp-c-brand-soft: #303D34;
+
+  --vp-c-bg: #1D2621;
+  --vp-c-bg-alt: #232E27;
+  --vp-c-bg-elv: #29362E;
+  --vp-c-bg-soft: #29362E;
+
+  --vp-c-border: #435044;
+  --vp-c-divider: #435044;
+  --vp-c-gutter: #303D34;
+
+  --vp-c-text-1: #F0EFE8;
+  --vp-c-text-2: #C5CFC2;
+  --vp-c-text-3: #A4B09C;
+
+  --vp-home-hero-name-color: #F0EFE8;
+
+  --vp-button-brand-bg: #A4B09C;
+  --vp-button-brand-hover-bg: #B8C7B5;
+  --vp-button-brand-active-bg: #8F9E88;
+  --vp-button-brand-border: #A4B09C;
+  --vp-button-brand-hover-border: #B8C7B5;
+  --vp-button-brand-text: #1D2621;
+
+  --vp-button-alt-bg: #303D34;
+  --vp-button-alt-text: #F0EFE8;
+  --vp-button-alt-hover-bg: #435044;
+}
+
+/* Keep the homepage refined and understated */
+
+.VPHome {
+  background: var(--vp-c-bg);
+}
+
+.VPFeature {
+  border-color: var(--vp-c-border);
+  background: var(--vp-c-bg-alt);
+}
+
+.VPFeature .icon {
+  color: var(--vp-c-brand-1);
+}
