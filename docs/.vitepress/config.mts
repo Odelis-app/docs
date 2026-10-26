@@ -10,8 +10,9 @@ export default defineConfig({
     siteTitle: 'Odelis',
 
     nav: [
-      { text: 'Guide', link: '/get-started/' },
-      { text: 'Development', link: '/development/architecture' }
+      { text: 'Getting Started', link: '/get-started/' },
+      { text: 'Using Odelis', link: '/guides/tasks' },
+      { text: 'Development', link: '/development/contributing' }
     ],
 
     sidebar: [
@@ -32,7 +33,6 @@ export default defineConfig({
       {
         text: 'Development',
         items: [
-          { text: 'Architecture', link: '/development/architecture' },
           { text: 'Contributing', link: '/development/contributing' }
         ]
       }
