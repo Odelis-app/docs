@@ -1,41 +1,51 @@
-# Introduction
+# Getting Started
 
-Odelis is a personal planning and knowledge workspace designed to bring tasks, notes, resources, and weekly schedules together in one considered environment.
+Odelis brings planning and personal knowledge into one considered workspace. It is built around a simple idea: **a space for thought.**
 
-Its guiding principle is simple: **a space for thought.**
+Use Odelis to keep track of responsibilities, collect useful information, and get a clearer view of the week ahead.
 
-Rather than scattering plans and reference material across separate tools, Odelis aims to provide a clear place to organize responsibilities, preserve useful information, and see what lies ahead.
+## Find your starting point
 
-## What you can do
+Choose the area that best fits what you want to do.
 
 ### Organize tasks
 
-Keep track of responsibilities, priorities, categories, and deadlines.
+Keep responsibilities in view, group work by category, and track priorities and deadlines.
 
-[Explore the task guide](/guides/tasks)
+[Read the task guide](/guides/tasks)
 
-### Collect notes and resources
+### Keep notes and resources close
 
-Keep written notes and useful reference material organized in one library.
+Collect written notes and useful reference material so they are easier to find when you need them.
 
-[Explore Notes & Library](/guides/notes-library)
+[Read Notes & Library](/guides/notes-library)
 
-### Plan your week
+### See the week ahead
 
-Use the weekly planner to view scheduled activities and organize your time.
+Use the weekly planner to understand what is coming up and organize scheduled activities.
 
-[Explore the weekly planner](/guides/weekly-planner)
+[Read the weekly planner guide](/guides/weekly-planner)
 
-## How to use this documentation
+## A simple way to begin
 
-The documentation is organized into three main areas:
+If you are new to Odelis, start with one small step:
 
-- **Getting Started** — an introduction to Odelis and its purpose.
-- **Using Odelis** — guides to the application's main features.
-- **Development** — technical information about the project and how to contribute.
+1. **Choose a focus.** Decide what you want to organize first: tasks, notes, or your week.
+2. **Explore the matching guide.** Learn how that part of Odelis is intended to work.
+3. **Build a routine that suits you.** Add structure where it helps, without making planning more complicated than it needs to be.
 
-Use the sidebar to move between topics, or search the documentation to find a specific subject.
+You do not need to organize everything at once. Start with what would make your work feel clearer today.
+
+## Explore the documentation
+
+Use the sidebar to browse the main sections:
+
+- **Getting Started** introduces Odelis and this documentation.
+- **Using Odelis** explains Tasks, Notes & Library, and the Weekly Planner.
+- **Development** covers the project's architecture and contribution process.
+
+You can also use search to find a specific feature or topic.
 
 ## Project source
 
-Odelis is developed in the [Odelis-app GitHub organization](https://github.com/Odelis-app). You can explore the main application's source code in the [Odelis repository](https://github.com/Odelis-app/odelis).
+Odelis is developed in the [Odelis-app GitHub organization](https://github.com/Odelis-app). To explore the application's code, visit the [Odelis repository](https://github.com/Odelis-app/odelis).
