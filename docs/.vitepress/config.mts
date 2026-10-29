@@ -46,6 +46,10 @@ export default defineConfig({
       {
         icon: 'github',
         link: 'https://github.com/Odelis-app/odelis'
+      },
+      {
+        icon: 'youtube',
+        link: 'https://youtube.com'
       }
     ],
 
