@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: 'Development',
         items: [
+          { text: 'Architecture', link: '/development/architecture' },
           { text: 'Contributing', link: '/development/contributing' }
         ]
       }
